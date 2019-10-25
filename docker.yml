@@ -18,9 +18,9 @@
   
     - name: Login to docker
       docker_login:
-        username: jayabalandevops
-        password: agathiyar@2000
-        email: balaniaf@gmail.com
+        username: ************************
+        password: ************************
+        email: *********************
 
     - name: Launch docker container
       docker_container:
